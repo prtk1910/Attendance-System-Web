@@ -1,2 +1,2 @@
 # Attendance-System-Web
-Attendance System for teachers
+Attendance System for teachers.
